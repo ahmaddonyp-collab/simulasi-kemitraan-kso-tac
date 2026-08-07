@@ -3,6 +3,7 @@
 MARGIN_DODO = {
     "Pertalite": {"Basic": 320, "Good": 355, "Excellent": 380, "Category": "PSO"},
     "Pertamax": {"Basic": 445, "Good": 635, "Excellent": 685, "Category": "NPSO"},
+    "Pertamax Green": {"Basic": 485, "Good": 685, "Excellent": 730, "Category": "NPSO"},
     "Pertamax Turbo": {"Basic": 525, "Good": 725, "Excellent": 775, "Category": "NPSO"},
     "Bio Solar": {"Basic": 210, "Good": 257, "Excellent": 275, "Category": "PSO"},
     "Dexlite": {"Basic": 485, "Good": 610, "Excellent": 660, "Category": "NPSO"},
@@ -18,6 +19,7 @@ MARGIN_KHUSUS = {
 DEFAULT_PRICES = {
     "Pertalite": 10000,
     "Pertamax": 15950,
+    "Pertamax Green": 16600,
     "Pertamax Turbo": 18300,
     "Bio Solar": 6800,
     "Dexlite": 19700,
