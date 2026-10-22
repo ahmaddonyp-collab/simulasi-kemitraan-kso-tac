@@ -62,7 +62,7 @@ def calculate_product_details(grading: str, sales_volume: dict, selling_prices: 
         
         margin_normal_prod = vol * margin_normal
         margin_khusus_prod = vol * margin_khusus
-        loss_gain_prod_rp = vol * loss_pct * price
+        loss_gain_prod_rp = vol * loss_pct * basic_price
         
         details[prod] = {
             "volume": vol, "price": price, "category": category,
